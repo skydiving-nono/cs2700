@@ -1,0 +1,33 @@
+Anthony Walker, CSC 2700, Git/SVN Homework, 2.20.2014
+
+http://svn.cactuscode.org/flesh/trunk/src
+
+-What was the commit message of revision 7? Show how you found out.
+To find out, first I did 
+'svn checkout http://svn.cactuscode.org/flesh/trunk/src/'
+to download the repository. 
+Next I ran 'svn log --revision 7' to see the revision data of revision 7, including the commit message.
+
+The commit message is "Basic structure now implemented. Still needs all the code behind the skeleton."
+
+-Which revision removed the macro GROUP_SCALAR? (mentioned in the commit message)
+Revision #1839 removed the macro GROUP_SCALAR
+
+-Do a checkout and an export of that repository. Report about the size of both. Which one is larger and why? Which version of svn are you using?
+Checkout size: 5.2M
+Export size: 2.5M
+
+The checkout size is larger because it includes all of the previous versions while export gets a particular revision, namely the latest revision.
+
+I am using svn version 1.7.10. (command: svn --version)
+
+
+
+
+https://github.com/lsuits/moodle
+
+How many forks does this project have on github?
+
+What is the (full) hash of the last commit, and the commit message?
+
+Show the ’diff’ of commit cc95aed777c75fe899992168fcd40031b45cb9b0
