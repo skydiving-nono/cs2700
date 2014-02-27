@@ -1,12 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
- *
- * @author Anthony
+ * @author Anthony Walker
+ * This is the form file to be used to complement the SimpleEditor.java file
+ * Autocreated with NetBeans IDE
  */
 public class Form extends javax.swing.JFrame {
 
