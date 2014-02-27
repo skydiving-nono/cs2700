@@ -28,11 +28,7 @@ public class SimpleEditor extends JFrame{
             JMenuItem save = new JMenuItem("Save");
             JMenuItem saveAs = new JMenuItem("Save As...");
             JMenuItem print = new JMenuItem("Print...");
-            file.add(newItem);
             file.add(open);
-            file.add(save);
-            file.add(saveAs);
-            file.add(print);
         edit = new JMenu();
         view = new JMenu();
         tools = new JMenu();
