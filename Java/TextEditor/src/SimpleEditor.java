@@ -1,5 +1,5 @@
 /**
- * @author Anthony
+ * @author Anthony Walker
  */
 
 import javax.swing.JFrame;
