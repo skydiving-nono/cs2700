@@ -1,6 +1,7 @@
-Project Name: 
+Project Name: Woses
 Initial Project Plan
-	-weekly
-		-tasks for members
-		Journals
-			-personal & public
+	-to meet weekly
+	-tasks for members. Each 
+Journals
+	-public will be here in the form of posts and updates
+	-private shared on Google Drive
